@@ -1,1 +1,0 @@
-# GAIA_technical_whitepaper

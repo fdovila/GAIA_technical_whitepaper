@@ -212,11 +212,7 @@ of machine learning models, the efficient implementation of
 back-propagation algorithms. This is a high level description of the
 system design using Wolfram language:
 
-<div class="multicols">
-
-2\[\]
-
-     [breaklines=true]
+```
     (* User input transformation *)
     userInput = {u1, u2, ..., un};
     tensorTransform = Function[{inputData}, TensorTransformation[inputData]];
@@ -284,7 +280,7 @@ system design using Wolfram language:
     retrieveDataFunc = Function[{}, databaseData];
     database = Database[storeDataFunc, retrieveDataFunc];
 
-</div>
+```
 
 ### Architecture
 

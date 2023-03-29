@@ -118,6 +118,22 @@ chats, machine learning (*M**L*) models are employed to discern
 connection types (*c*) that enhance equity (*e*), integrity (*i*),
 progress (*p**i*), trust (*t*), and well-being (*w*):
 
+To foster cross-level dynamics and support emergent moderators in group
+chats, machine learning (*M**L*) models are employed to discern
+connection types (*c*) that enhance equity (*e*), integrity (*i*),
+progress (*p**i*), trust (*t*), and well-being (*w*):
+
+$$\\begin{aligned}
+        c\_{et} &= {f(\\text{shared stakes}, \\text{mutual aims}) \| c } \\\\
+        c\_{id} &= {f(\\text{consent}, \\text{transparency}) \| c } \\\\
+        c\_{\\pi} &= {f(\\text{new insights}, \\text{discoveries}, \\text{solutions}) \| c } \\\\
+        c\_{t} &= {f(\\text{vulnerability}, \\text{good faith}) \| u_i u_j } \\\\
+        c\_{w} &= {f(\\text{privacy}, \\text{autonomy}, \\text{fulfillment}) \| u_i u_j } \\\\
+    \\end{aligned}$$
+
+These ML models are designed to be robust and unbiased, ensuring fair
+benefits for all users in the group chat environment.
+
 These ML models are designed to be robust and unbiased, ensuring fair
 benefits for all users in the group chat environment.
 

@@ -1,11 +1,11 @@
 # Technical brief: GAIA, Fostering Higher-Order Consciousness in Online Communities
 
-$$\\begin{aligned}
+$$\\begin{}
 Fernando B. Avila-Rencoret, MD\\\\
 Hamlyn Centre for Medical Robotics\\\\
 Imperial College London, United Kingdom\\\\
 fba13ATic.ac.uk, favilarATgmail.com
-    \\end{aligned}$$
+    \\end{}$$
 
 
 ## Abstract
